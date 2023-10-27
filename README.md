@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ritaogada
-- 👀 I’m interested in web design and development. I'm also interested in graphic design, photography, and videography
-- 🌱 I’m currently learning web development in a bootcamp.
-- 💞️ I’m apiring to work as a Freelance web designer and developer in future and collaborate with various companies and clients to help achieve their development goals. 
-- 📫 How to reach me: ritaogada@gmail.com
+- 👀 I’m interested in technical writing, web design, development as well as backend development. 
+- 🌱 My learning process is continuous. freeCodeCamp, MDN docs, YouTube, etc, all these are a tip of the iceberg.  
+- 💞️ I love coding because it's a life-time process of learning and solving problems. 
+- 📫 My email: rita.writescontent@gmail.com, ritaogada@gmail.com
 
-Looking forward to working with you
+Get in touch🙂!
 <!---
 ritaogada/ritaogada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
